@@ -1,0 +1,14 @@
+<DOCTYPE html>
+<head>
+    <title>Battleship</title>
+    <meta charset="utf-8">
+    <link href="https://fonts.googleapis.com/css?family=Orbitron" rel="stylesheet">
+    <link rel="stylesheet" href="battleshipstyle.css">
+</head>
+
+<body>
+  <header>
+    <h1>Play Super Simple Battleship</h1>
+  </header>
+<script src="battleship.js" charset="utf-8"></script>
+</body>
